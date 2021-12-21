@@ -1,0 +1,20 @@
+h1 {
+    background-color: red;
+}
+
+
+h2 {
+    background-color: green;
+    color: white;
+}
+
+body {
+    background-color: black;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif,'Times New Roman', Times, serif, sans-serif;
+}
+
+a {
+    color: pink;
+}
+
